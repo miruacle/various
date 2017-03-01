@@ -49,4 +49,4 @@
  }
 ```
 
-- [JAX-RS Tutoral](http://docs.oracle.com/javaee/6/tutorial/doc/gilik.html）
+- [JAX-RS Tutoral](http://docs.oracle.com/javaee/6/tutorial/doc/gilik.html)
