@@ -50,3 +50,4 @@
 ```
 
 - [JAX-RS Tutoral](http://docs.oracle.com/javaee/6/tutorial/doc/gilik.html)
+- [CXF](https://www.ibm.com/developerworks/cn/opensource/os-restfulwebservices/index.html)
