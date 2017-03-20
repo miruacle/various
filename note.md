@@ -1,6 +1,6 @@
 ### 1.Wavelet
 ### 2.Blip
-## #3.BlipRefs
+### 3.BlipRefs
 - 需要一个类来负责处理JsonNode中的数据
 
 - 需要Wavelet用来创建新的Blip，需要BlipRefs用来更新blip内容中的各种Element
